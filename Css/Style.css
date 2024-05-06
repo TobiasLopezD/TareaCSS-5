@@ -1,0 +1,90 @@
+html {
+    background-color: grey;
+
+}
+
+body{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.inicio{
+    background-color: lightblue;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+.navegacion{
+
+    background-color: lightgreen;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+
+}
+
+.noticias{
+
+    background-color: lightyellow;
+    height: 340px;
+    padding:10px;
+    margin-bottom: 10px;
+    
+
+
+}
+
+div{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+.noticiasdeportes{
+    background-color: red;
+    margin-bottom: 10px;
+
+
+}
+
+.noticasentretenimiento {
+
+    background-color:  orange;
+    margin-bottom: 10px;
+
+}
+
+article{
+
+    margin-bottom: 10px;
+
+}
+
+.barralateral{
+    background-color: lightpink;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    
+
+
+}
+
+
+
+.piedepagina{
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+
+
+
+}
